@@ -3,3 +3,22 @@
     padding: 0;
     margin: 0;
 }
+p
+{
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+#learn
+{
+    background-color: blueviolet;
+    color: chartreuse;
+    text-align: right;
+    text-shadow: 2px;
+}
+.project{
+    background-color: green;
+    color: white;
+    text-align: left;
+    text-shadow: 2px;
+}
